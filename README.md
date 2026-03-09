@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Syed-Husam-Uddin/syedconnect/main/public/profile.jpg" width="100" height="100" style="border-radius: 50%" alt="Syed Husamuddin Logo">
+  <img src="https://raw.githubusercontent.com/Husamuddin-tech/syedconnect/main/public/profile.jpg" width="100" height="100" style="border-radius: 50%" alt="Syed Husamuddin Logo">
   <h1>SyedConnect</h1>
   <p><strong>A stunning, interactive 3D Social Links Application built with Next.js</strong></p>
 
